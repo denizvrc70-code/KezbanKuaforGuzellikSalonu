@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, sans-serif;
+  --color-artistic-bg: #FAF9F6;
+  --color-artistic-dark: #2D2D2D;
+  --color-artistic-accent: #A68966;
+  --color-artistic-border: #E8E6E1;
+  --color-artistic-surface: #F0EFEA;
+  --color-artistic-gold: #FFB800;
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+body {
+  overflow-x: hidden;
+  width: 100%;
+}

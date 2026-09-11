@@ -1,0 +1,6 @@
+{
+  "name": "Kezban Güzellik Salonu & Kuaför",
+  "description": "Gaziemir İzmir'de saç renklendirme, kesim, kaş tasarımı, saç örgüleri ve profesyonel makyaj hizmetleri sunan modern güzellik salonu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
